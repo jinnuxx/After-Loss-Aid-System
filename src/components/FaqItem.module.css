@@ -1,0 +1,49 @@
+
+.faqButton {
+  background: #ffffff; 
+  border: 1px solid #dddddd; 
+  padding: 8px;
+  text-align: left;
+  width: 100%;
+  display: flex; 
+  justify-content: space-between; 
+  align-items: center; 
+  cursor: pointer;
+  transition: all 0.3s ease;
+  border-radius: 8px; 
+  margin-bottom: 10px; 
+
+}
+
+
+.faqButton svg {
+  flex-shrink: 0; 
+}
+
+.faqButton:hover {
+  background-color: #f0f0f0; 
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2); 
+}
+
+.faqAnswer {
+  padding: 8px;
+  padding-left: 30px;
+  padding-right: 30px;
+  width: 100%;
+ 
+  display: none; 
+  
+  margin-bottom: 20px;
+}
+
+.faqAnswerOpen {
+  display: block; 
+  animation: fadeIn 0.3s ease; 
+}
+
+
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}

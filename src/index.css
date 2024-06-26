@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap");
+
+.line-hover\:shorten:hover {
+  stroke-dasharray: 19 5; /* Total of 24, but with a gap */
+  transition: stroke-dasharray 0.3s ease;
+}
