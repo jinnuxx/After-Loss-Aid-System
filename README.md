@@ -1,5 +1,5 @@
 # After Loss Aid System
-<h2>Website Link: https://afterlossaid-system.vercel.app/ </h2>
+<h3>Website Link: https://afterlossaid-system.vercel.app/ </h3>
 
 The After Loss Aid System was developed collaboratively with four team members over a 10-week timeframe as part of a work-integrated learning project at university. The target user is people who lost their loved ones, and the website aimed to simplify the process of notifying different organisations and make it easier to handle necessary account closures. Core functions include select organisations, input information, and generate multiple emails. We collaborated with a start-up, and I took on the roles of both project manager and front-end developer. The project included a completed Figma prototype designed by professionals, requiring me to coordinate effectively with various teams.
 
