@@ -1,5 +1,5 @@
 # After Loss Aid System
-A Deceased Information Noticication system aims to ease the burden of handling administrative tasks after a loved one's death by simplifying the process of notifying various organizations and managing necessary account closures.
+The After Loss Aid System was developed collaboratively with four team members over a 10-week timeframe as part of a work-integrated learning project at university. The target user is people who lost their loved ones, and the website aimed to simplify the process of notifying different organisations and make it easier to handle necessary account closures. Core functions include select organisations, input information, and generate multiple emails. We collaborated with a start-up, and I took on the roles of both project manager and front-end developer. The project included a completed Figma prototype designed by professionals, requiring me to coordinate effectively with various teams.
 
 # Technologies Used
 React, React Context, TypeScript XML, MUI, IndexDB, SessionStorage
